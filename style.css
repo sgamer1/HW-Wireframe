@@ -21,19 +21,49 @@ aside{
 	background: #ebebeb;
 	padding: 20px;
 	margin: 20px;
+	margin-top: -40px;
 	text-align: center;
 	float: right;
 	height: 100px;
 }
-h1 h2 h3{
+
+section{
 	border-style: solid;
 	color: #777;
 	background: #ebebeb;
-	padding: 30px;
-	margin: 30px;
+	padding: 20px;
+	margin: 20px;
 	text-align: center;
-	
+}
 
+article{
+	border-style: solid;
+	color: #777;
+	background: #ebebeb;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+
+}
+
+h1,h2,h3{
+	border-style: solid;
+	color: #777;
+	background: #ebebeb;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	float: left;
+	}
+p{
+	border-style: solid;
+	color: #777;
+	background: #ebebeb;
+	padding: 40px;
+	margin: 40px;
+	text-align: center;
+	float: left;
+	clear: both;
 }
 
 footer{
@@ -52,5 +82,13 @@ nav{
 	background: #ebebeb;
 	padding: 20px;
 	margin: 20px;
+	text-align: center;
+}
+section{
+	border-style: solid;
+	color: #777;
+	background: #777;
+	padding: 10px;
+	margin: 10px;
 	text-align: center;
 }
