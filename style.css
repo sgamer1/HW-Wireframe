@@ -1,0 +1,12 @@
+body{
+	background-color: #777;
+
+}
+header .box{
+	border-style: solid;
+	color: #ebebeb;
+	float: left;
+	position: relative;
+	width: 80px;
+	
+}
